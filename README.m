@@ -13,6 +13,39 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+M-MAIN IDEA
+
+ k-Subsidiary idea or supporting idea to m
+
+n-Subsidiary idea or supporting idea to m
+
+1.Subsidiary idea to B
+
+2.Subsidiary idea to B
+
+a.Subsidiary idea to 2
+
+b.Subsidiary idea to 2
+
+MM.MAIN IDEA
+
+k.Subsidiary or supporting idea to mm
+
+n.Subsidiary idea to mm
+
+ 314.Subsidiary idea to mm
+
+MAIN IDEA
+
+
+M-HISTORY OF THE TERM
+
+mm-REDISTRICTING PROCESS
+
+k-MKN
+
+n-Census data MKN314
+
 -->
  ℳ𝒦𝒩
 
