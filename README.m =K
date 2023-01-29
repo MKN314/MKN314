@@ -1071,9 +1071,203 @@ According to Barry Eichengreen, an economist known for his work on monetary and
 Popularity
 
 Digital Currencies have become popular due to their convenient nature. Many users believe digital currency allows them to transfer money quicker and in a simpler manner. Many countries have adopted forms of digital currency due to doubts in the strength of their banking systems and distrust in the state of their economy. Other users prefer digital currency due to the freedom it gives them in their spending habits. Due to the fact that regulation over digital currencies is weak, many users can go around typical rules and regulations that are upheld with fiat currencies. In times of financial predicaments within a country, digital currencies may also help protect a user's assets. 
+/////
+Digital currency
+Currency stored on electronic systems
+
+"E-cash" and "Internet money" redirect here. For the 20th century brand, see Ecash. For the record label, see Internet Money Records.
+Digital currency (digital money, electronic money or electronic currency) is any currency, money, or money-like asset that is primarily managed, stored or exchanged on digital computer systems, especially over the internet. Types of digital currencies include cryptocurrency, virtual currency and central bank digital currency. Digital currency may be recorded on a distributed database on the internet, a centralized electronic computer database owned by a company or bank, within digital files or even on a stored-value card.
 
 
+Taxonomy of money, based on "Central bank cryptocurrencies" by Morten Linnemann Bech and Rodney Garratt
+Digital currencies exhibit properties similar to traditional currencies, but generally do not have a classical physical form of fiat currency historically that you can directly hold in your hand, like currencies with printed banknotes or minted coins - however they do have a physical form in an unclassical sense coming from the computer to computer and computer to human interactions and the information and processing power of the servers that store and keep track of money. This unclassical physical form allows nearly instantaneous transactions over the internet and vastly lowers the cost associated with distributing notes and coins: for example, of the types of money in the UK economy, 3% are notes and coins, and 79% as electronic money (in the form of bank deposits). Usually not issued by a governmental body, virtual currencies are not considered a legal tender and they enable ownership transfer across governmental borders.
 
+This type of currency may be used to buy physical goods and services, but may also be restricted to certain communities such as for use inside an online game.
+
+Digital money can either be centralized, where there is a central point of control over the money supply (for instance, a bank), or decentralized, where the control over the money supply is predetermined or agreed upon democratically.
+
+History
+Precursory ideas for digital currencies were presented in electronic payment methods such as the Sabre (travel reservation system). In 1983, a research paper titled "Blind Signatures for Untraceable Payments" by David Chaum introduced the idea of digital cash. In 1989, he founded DigiCash, an electronic cash company, in Amsterdam to commercialize the ideas in his research. It filed for bankruptcy in 1998.
+
+e-gold was the first widely used Internet money, introduced in 1996, and grew to several million users before the US Government shut it down in 2008. e-gold has been referenced to as "digital currency" by both US officials and academia. In 1997, Coca-Cola offered buying from vending machines using mobile payments. PayPal launched its USD-denominated service in 1998. In 2009, bitcoin was launched, which marked the start of decentralized blockchain-based digital currencies with no central server, and no tangible assets held in reserve. Also known as cryptocurrencies, blockchain-based digital currencies proved resistant to attempt by government to regulate them, because there was no central organization or person with the power to turn them off.
+
+Origins of digital currencies date back to the 1990s Dot-com bubble. Another known digital currency service was Liberty Reserve, founded in 2006; it lets users convert dollars or euros to Liberty Reserve Dollars or Euros, and exchange them freely with one another at a 1% fee. Several digital currency operations were reputed to be used for Ponzi schemes and money laundering, and were prosecuted by the U.S. government for operating without MSB licenses. Q coins or QQ coins, were used as a type of commodity-based digital currency on Tencent QQ's messaging platform and emerged in early 2005. Q coins were so effective in China that they were said to have had a destabilizing effect on the Chinese Yuan currency due to speculation. Recent interest in cryptocurrencies has prompted renewed interest in digital currencies, with bitcoin, introduced in 2008, becoming the most widely used and accepted digital currency.
+
+Sub-types of digital currency and comparisons
+Digital currency as a specific type and as a meta-group name
+Digital Currency is a term that refers to a specific type of electronic currency with specific properties. Digital Currency is also a term used to include the meta-group of sub-types of digital currency, the specific meaning can only be determined within the specific legal or contextual case. Legally and technically, there already are a myriad of legal definitions of digital currency and the many digital currency sub-types. Combining different possible properties, there exists an extensive number of implementations creating many and numerous sub-types of Digital Currency. Many governmental jurisdictions have implemented their own unique definition for digital currency, virtual currency, cryptocurrency, e-money, network money, e-cash, and other types of digital currency. Within any specific government jurisdiction, different agencies and regulators define different and often conflicting meanings for the different types of digital currency based on the specific properties of a specific currency type or sub-type.
+
+Digital versus virtual currency
+Main article: Virtual currency
+A virtual currency has been defined in 2012 by the European Central Bank as "a type of unregulated, digital money, which is issued and usually controlled by its developers, and used and accepted among the members of a specific virtual community". The US Department of Treasury in 2013 defined it more tersely as "a medium of exchange that operates like a currency in some environments, but does not have all the attributes of real currency". The US Department of Treasury also stated that, "Virtual currency does not have legal-tender status in any jurisdiction."
+
+According to the European Central Bank's 2015 "Virtual currency schemes – a further analysis" report, virtual currency is a digital representation of value, not issued by a central bank, credit institution or e-money institution, which, in some circumstances, can be used as an alternative to money. In the previous report of October 2012, the virtual currency was defined as a type of unregulated, digital money, which is issued and usually controlled by its developers, and used and accepted among the members of a specific virtual community.
+
+According to the Bank for International Settlements' November 2015 "Digital currencies" report, it is an asset represented in digital form and having some monetary characteristics. Digital currency can be denominated to a sovereign currency and issued by the issuer responsible to redeem digital money for cash. In that case, digital currency represents electronic money (e-money). Digital currency denominated in its own units of value or with decentralized or automatic issuance will be considered as a virtual currency. As such, bitcoin is a digital currency but also a type of virtual currency. Bitcoin and its alternatives are based on cryptographic algorithms, so these kinds of virtual currencies are also called cryptocurrencies.
+
+Digital versus cryptocurrency
+Cryptocurrency is a sub-type of digital currency and a digital asset that relies on cryptography to chain together digital signatures of asset transfers, peer-to-peer networking and decentralization. In some cases a proof-of-work or proof-of-stake scheme is used to create and manage the currency. Cryptocurrencies can allow electronic money systems to be decentralized. When implemented with a blockchain, the digital ledger system or record keeping system uses cryptography to edit separate shards of database entries that are distributed across many separate servers. The first and most popular system is bitcoin, a peer-to-peer electronic monetary system based on cryptography.
+
+Digital versus traditional currency
+Most of the traditional money supply is bank money held on computers. They are considered digital currency in some cases. One could argue that our increasingly cashless society means that all currencies are becoming digital currencies, but they are not presented to us as such.
+
+Types of systems
+Centralized systems
+Main article: Electronic funds transfer
+Currency can be exchanged electronically using debit cards and credit cards using electronic funds transfer at point of sale.
+
+Mobile digital wallets
+A number of electronic money systems use contactless payment transfer in order to facilitate easy payment and give the payee more confidence in not letting go of their electronic wallet during the transaction.
+
+In 1994 Mondex and National Westminster Bank provided an "electronic purse" to residents of Swindon
+In about 2005 Telefónica and BBVA Bank launched a payment system in Spain called Mobipay which used simple short message service facilities of feature phones intended for pay-as-you-go services including taxis and pre-pay phone recharges via a BBVA current bank account debit.
+In January 2010, Venmo launched as a mobile payment system through SMS, which transformed into a social app where friends can pay each other for minor expenses like a cup of coffee, rent and pay a share of the restaurant bill when one has forgotten their wallet. It is popular with college students, but has some security issues. It can be linked to a bank account, credit/debit card or have a loaded value to limit the amount of loss in case of a security breach. Credit cards and non-major debit cards incur a 3% processing fee.
+On 19 September 2011, Google Wallet released in the United States to make it easy to carry all one's credit/debit cards on a phone.
+In 2012 Ireland's O2 (owned by Telefónica) launched Easytrip to pay road tolls which were charged to the mobile phone account or prepay credit.
+The UK's O2 invented O2 Wallet at about the same time. The wallet can be charged with regular bank accounts or cards and discharged by participating retailers using a technique known as 'money messages'. The service closed in 2014.
+On 9 September 2014, Apple Pay was announced at the iPhone 6 event. In October 2014 it was released as an update to work on iPhone 6 and Apple Watch. It is very similar to Google Wallet, but for Apple devices only.
+Central Bank Digital Currency (CBDC)
+Central Bank Digital Currencies are a form of universally accessible digital money in a nation and hold the same value as the countries paper currency. Like cryptocurrency, CBCD's are held in the form of tokens. CBDC's are different than regular digital cash forms like in online bank accounts because CBDC's are established through the central bank within a country, with liabilities held by one's government, rather than from a commercial bank. Approximately nine countries have already established a Central Bank Digital Currency, with interest in the system increasing highly throughout the world. In these nations, CBDC's have been used as a form of exchange and a way for governments to try and prevent risks from occurring within their financial systems.
+
+Decentralized systems
+Main article: Cryptocurrency
+See also: List of cryptocurrencies
+Digital Currency has been implemented in some cases as a decentralized system of any combination of currency issuance, ownership record, ownership transfer authorization and validation, and currency storage.
+
+Per the Bank for International Settlements (BIS), "These schemes do not distinguish between users based on location, and therefore allow value to be transferred between users across borders. Moreover, the speed of a transaction is not conditional on the location of the payer and payee."
+
+Law
+Since 2001, the European Union has implemented the E-Money Directive "on the taking up, pursuit and prudential supervision of the business of electronic money institutions" last amended in 2009.
+
+In the United States, electronic money is governed by Article 4A of the Uniform Commercial Code for wholesale transactions and the Electronic Fund Transfer Act for consumer transactions. Provider's responsibility and consumer's liability are regulated under Regulation E.
+
+Regulation
+Virtual currencies pose challenges for central banks, financial regulators, departments or ministries of finance, as well as fiscal authorities and statistical authorities.
+
+Adoption by governments
+As of 2016, over 24 countries are investing in distributed ledger technologies (DLT) with $1.4bn in investments. In addition, over 90 central banks are engaged in DLT discussions, including implications of a central bank issued digital currency.
+
+Hong Kong's Octopus card system: Launched in 1997 as an electronic purse for public transportation, is the most successful and mature implementation of contactless smart cards used for mass transit payments. After only 5 years, 25 percent of Octopus card transactions are unrelated to transit, and accepted by more than 160 merchants.
+London Transport’s Oyster card system: Oyster is a plastic smartcard that can hold pay-as-you-go credit, Travelcards and Bus & Tram season tickets. An Oyster card can be used to travel on bus, Tube, tram, DLR, London Overground and most National Rail services in London.
+Japan's FeliCa: A contactless RFID smart card, used in a variety of ways such as in ticketing systems for public transportation, e-money, and residence door keys.
+The Netherlands' Chipknip: As an electronic cash system used in the Netherlands, all ATM cards issued by the Dutch banks had value that could be loaded via Chipknip loading stations. For people without a bank, pre-paid Chipknip cards could be purchased at various locations in the Netherlands. As of 1 January 2015, payment can no longer be made with Chipknip.
+Belgium's Proton: An electronic purse application for debit cards in Belgium. Introduced in February 1995, as a means to replace cash for small transactions. The system was retired on 31 December 2014.
+In March 2018, the Marshall Islands became the first country to issue their own cryptocurrency and certify it as legal tender; the currency is called the "sovereign".
+
+United States of America
+US Commodity Futures Trading Commission guidance
+The US Commodity Futures Trading Commission (CFTC) has determined virtual currencies are properly defined as commodities in 2015. The CFTC warned investors against pump and dump schemes that use virtual currencies.
+
+US Internal Revenue Service guidance
+The US Internal Revenue Service (IRS) ruling Notice 2014-21 defines any virtual currency, cryptocurrency and digital currency as property; gains and losses are taxable within standard property policies.
+
+US Treasury guidance
+On 20 March 2013, the Financial Crimes Enforcement Network issued a guidance to clarify how the U.S. Bank Secrecy Act applied to persons creating, exchanging, and transmitting virtual currencies.
+
+US Securities and Exchange Commission guidance
+In May 2014 the US Securities and Exchange Commission (SEC) "warned about the hazards of bitcoin and other virtual currencies".
+
+New York state regulation
+In July 2014, the New York State Department of Financial Services proposed the most comprehensive regulation of virtual currencies to date, commonly called BitLicense. It has gathered input from bitcoin supporters and the financial industry through public hearings and a comment period until 21 October 2014 to customize the rules. The proposal per NY DFS press release "sought to strike an appropriate balance that helps protect consumers and root out illegal activity".[citation needed] It has been criticized by smaller companies to favor established institutions, and Chinese bitcoin exchanges have complained that the rules are "overly broad in its application outside the United States".
+
+Canada
+The Bank of Canada have explored the possibility of creating a version of its currency on the blockchain.
+
+The Bank of Canada teamed up with the nation’s five largest banks – and the blockchain consulting firm R3 – for what was known as Project Jasper. In a simulation run in 2016, the central bank issued CAD-Coins onto a blockchain similar Ethereum. The banks used the CAD-Coins to exchange money the way they do at the end of each day to settle their master accounts.
+
+China
+Main article: Digital renminbi
+In 2016, Fan Yifei, a deputy governor of China's central bank, the People's Bank of China (PBOC), wrote that "the conditions are ripe for digital currencies, which can reduce operating costs, increase efficiency and enable a wide range of new applications". According to Fan Yifei, the best way to take advantage of the situation is for central banks to take the lead, both in supervising private digital currencies and in developing digital legal tender of their own.
+
+In October 2019, the PBOC announced that a digital renminbi would be released after years of preparation. The version of the currency, known as DCEP (Digital Currency Electronic Payment), is based on cryptocurrency which can be "decoupled" from the banking system. The announcement received a variety of responses: some believe it is more about domestic control and surveillance.
+
+In December 2020, the PBOC distributed ¥20 RMB million worth of digital renminbi to the residents of Suzhou through a lottery program to further promote the government-backed digital currency. Recipients of the currency could make both offline and online purchases, expanding on an earlier trial that did not require internet connection through the inclusion of online stores in the program. Around 20,000 transactions were reported by the e-commerce company JD.com in the first 24 hours of the trial. Contrary to other online payment platforms such as Alipay or WeChat Pay, the digital currency does not have transaction fees.
+
+Denmark
+The Danish government proposed getting rid of the obligation for selected retailers to accept payment in cash, moving the country closer to a "cashless" economy. The Danish Chamber of Commerce is backing the move. Nearly a third of the Danish population uses MobilePay, a smartphone application for transferring money.
+
+Ecuador
+A law passed by the National Assembly of Ecuador gives the government permission to make payments in electronic currency and proposes the creation of a national digital currency. "Electronic money will stimulate the economy; it will be possible to attract more Ecuadorian citizens, especially those who do not have checking or savings accounts and credit cards alone. The electronic currency will be backed by the assets of the Central Bank of Ecuador", the National Assembly said in a statement. In December 2015, Sistema de Dinero Electrónico ("electronic money system") was launched, making Ecuador the first country with a state-run electronic payment system.
+
+El Salvador
+On Jun 9, 2021, the Legislative Assembly of El Salvador has become the first country in the world to officially classify Bitcoin as legal currency. Starting 90 days after approval, every business must accept Bitcoin as legal tender for goods or services, unless it is unable to provide the technology needed to do the transaction.
+
+Netherlands
+The Dutch central bank is experimenting with a blockchain-based virtual currency called "DNBCoin".
+
+India
+The Unified Payments Interface (UPI) is a real-time payment system for instant money transfers between any two bank accounts held in participating banks in India. The interface has been developed by the National Payments Corporation of India and is regulated by the Reserve Bank of India. This digital payment system is available 24*7*365. UPI is agnostic to the type of user and is used for person to person, person to business, business to person and business to business transactions.
+
+Transactions can be initiated by the payer or the payee. To identify a bank account it uses a unique Virtual Payment Address (VPA) of the type 'accountID@bankID'. The VPA can be assigned by the bank, but can also be self specified just like an email address. The simplest and most common form of VPA is 'mobilenumber@upi'. Money can be transferred from one VPA to another or from one VPA to any bank account in a participating bank using account number and bank branch details. Transfers can be inter-bank or intra-bank.
+
+UPI has no intermediate holding pond for money. It withdraws funds directly from the bank account of the sender and deposits them directly into the recipient's bank account whenever a transaction is requested. A sender can initiate and authorise a transfer using a two step secure process: login using a pass code → initiate → verify using a passcode. A receiver can initiate a payment request on the system to send the payer a notification or by presenting a QR code. On receiving the request, the payer can decline or confirm the payment using the same two step process: login → confirm → verify. The system is extraordinarily user friendly to the extent that even technophobes and barely literate users are adopting it in huge numbers.
+
+Russia
+Government-controlled Sberbank of Russia owns YooMoney – electronic payment service and digital currency of the same name.
+
+Sweden
+Sweden is in the process of replacing all of its physical banknotes, and most of its coins by mid-2017.[needs update] However, the new banknotes and coins of the Swedish krona will probably be circulating at about half the 2007 peak of 12,494 kronor per capita. The Riksbank is planning to begin discussions of an electronic currency issued by the central bank to which "is not to replace cash, but to act as complement to it". Deputy Governor Cecilia Skingsley states that cash will continue to spiral out of use in Sweden, and while it is currently fairly easy to get cash in Sweden, it is often very difficult to deposit it into bank accounts, especially in rural areas. No decision has been currently made about the decision to create "e-krona".
+
+In her speech,[when?] Skingsley states: "The first question is whether e-krona should be booked in accounts or whether the ekrona should be some form of a digitally transferable unit that does not need an underlying account structure, roughly like cash." Skingsley also states: "Another important question is whether the Riksbank should issue e-krona directly to the general public or go via the banks, as we do now with banknotes and coins." Other questions will be addressed like interest rates, should they be positive, negative, or zero?[citation needed]
+
+Switzerland
+In 2016, a city government first accepted digital currency in payment of city fees. Zug, Switzerland, added bitcoin as a means of paying small amounts, up to SFr 200, in a test and an attempt to advance Zug as a region that is advancing future technologies. In order to reduce risk, Zug immediately converts any bitcoin received into the Swiss currency. Swiss Federal Railways, government-owned railway company of Switzerland, sells bitcoins at its ticket machines.
+
+UK
+In 2016, the UK's chief scientific adviser, Sir Mark Walport, advised the government to consider using a blockchain-based digital currency.
+
+The chief economist of Bank of England, the central bank of the United Kingdom, proposed the abolition of paper currency. The Bank has also taken an interest in blockchain. In 2016 it has embarked on a multi-year research programme to explore the implications of a central bank issued digital currency. The Bank of England has produced several research papers on the topic. One suggests that the economic benefits of issuing a digital currency on a distributed ledger could add as much as 3 percent to a country's economic output. The Bank said that it wanted the next version of the bank’s basic software infrastructure to be compatible with distributed ledgers.
+
+Adoption by financial actors
+Government attitude dictates the tendency among established heavy financial actors that both are risk-averse and conservative. None of these offered services around cryptocurrencies and much of the criticism came from them. "The first mover among these has been Fidelity Investments, Boston based Fidelity Digital Assets LLC will provide enterprise-grade custody solutions, a cryptocurrency trading execution platform and institutional advising services 24 hours a day, seven days a week designed to align with blockchain's always-on trading cycle". It will work with Bitcoin and Ethereum with general availability scheduled for 2019.[needs update]
+
+Hard vs. soft digital currencies
+Hard electronic currency does not have the ability to be disputed or reversed when used. It is nearly impossible to reverse a transaction, justified or not. It is very similar to cash.
+
+Soft electronic currencies are the opposite of hard electronic currencies. Payments can be reversed. Usually, when a payment is reversed there is a "clearing time." A hard currency can be "softened" with a third-party service.
+
+Criticism
+Many existing digital currencies have not yet seen widespread usage, and may not be easily used or exchanged. Banks generally do not accept or offer services for them. There are concerns that cryptocurrencies are extremely risky due to their very high volatility and potential for pump and dump schemes. Regulators in several countries have warned against their use and some have taken concrete regulatory measures to dissuade users. The non-cryptocurrencies are all centralized. As such, they may be shut down or seized by a government at any time. The more anonymous a currency is, the more attractive it is to criminals, regardless of the intentions of its creators. Bitcoin has also been criticised for its energy inefficient SHA-256-based proof of work.
+
+According to Barry Eichengreen, an economist known for his work on monetary and financial economics, "cryptocurrencies like Bitcoin are too volatile to possess the essential attributes of money. Stablecoins have fragile currency pegs that diminish their utility in transactions. And central bank digital currencies are a solution in search of a problem."
+
+Popularity
+Digital Currencies have become popular due to their convenient nature. Many users believe digital currency allows them to transfer money quicker and in a simpler manner. Many countries have adopted forms of digital currency due to doubts in the strength of their banking systems and distrust in the state of their economy. Other users prefer digital currency due to the freedom it gives them in their spending habits. Due to the fact that regulation over digital currencies is weak, many users can go around typical rules and regulations that are upheld with fiat currencies. In times of financial predicaments within a country, digital currencies may also help protect a user's assets. 
+
+List
+Non-cryptocurrencies
+More information Currency, Code ...
+See also
+Complementary currency
+Automated clearing house
+Cashless catering
+Cashless society
+Community Exchange System
+Cryptocurrency exchange
+Cryptocurrency wallet
+Central bank digital currency
+Digital wallet
+E-commerce payment system
+Electronic Money Association
+Electronic funds transfer
+Local exchange trading system
+Payment system
+Private currency
+References
+ABOUT THIS ARTICLE
+View edit history
+Updated today
+View talk page
+Discuss improvements to this article
+READ MORE
+Economics of bitcoin
+Bitcoin is a digital asset designed by its pseudonymous inventor, Satoshi Nakamoto, to work as a currency.
+Central bank digital currency
+Digital form of fiat money
+Cryptocurrency and crime
+Cryptocurrency and crime describes notable examples of cybercrime related to theft of cryptocurrencies and some of the methods or security vulnerabilities commonly exploited. Cryptojacking is a form of cybercrime specific to cryptocurrencies that has been used on websites to hijack a victim's resources and use them for hashing and mining cryptocurrencies.
+Content is available under CC BY-SA 3.0 unless otherwise noted.
+View article in browser  ////
 
 
 
